@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body,
+html {
+  color: black;
+  height: 100%;
+}
+.textos {
+  text-align: justify, center;
+  background-color: yellow;
+  color: black;
+ padding: 30px;
+}
+.conteudo1,
+.conteudo2,
+.conteudo3,
+.conteudo4,
+.conteudo5,
+.conteudo6,
+.conteudo7,
+.conteudo8,
+.conteudo9 {
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center; 
+}
+
+.conteudo1 {
+  background-image: url("../FOTOS/1.jpg");
+}
+.conteudo2 {
+  background-image: url("../FOTOS/10.jpg");
+}
+.conteudo3 {
+  background-image: url("../FOTOS/11.jpg");
+}
+
+.conteudo4 {
+  background-image: url("../FOTOS/2.jpg");
+}
+
+.conteudo5 {
+  background-image: url("../FOTOS/3.jpg");
+}
+
+.conteudo6 {
+  background-image: url("../FOTOS/4.jpg");
+}
+.conteudo7 {
+  background-image: url("../FOTOS/5.1.jpg");
+}
+.conteudo8 {
+    background-image: url('../FOTOS/5.jpg');
+}
+.conteudo9 {
+    background-image: url('../FOTOS/6.1.jpg');
+}
