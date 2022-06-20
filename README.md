@@ -1,1 +1,1 @@
-# fotografias
+# Album de fotos dinamico
